@@ -1,7 +1,6 @@
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
 
 #IPTV được tạo bởi ann
-
 
 #EXTINF:-1 tvg-id="vtvcab-1-vie-giai-tri-hd" group-title="VTV Cab" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtvcab-1-vie-giai-tri-hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
 https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
